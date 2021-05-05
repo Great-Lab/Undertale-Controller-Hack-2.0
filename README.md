@@ -1,8 +1,12 @@
 # Undertale Controller 2.0
 This is the second version of Undertale Controller. Source code is coming out soon! You have permission to you create your own. But credit Undertale Controller as the original source.
 
+# Servers
+[Great Hacking Official](https://discord.gg/Bau2gtYEKm) -- More Advanced
+[Undertale Modding Community](https://discord.gg/u6YAkNxq6P) -- Less Advanced
+
 # Questions
-Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls)!
+Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/KcYsGEwE)!
 
 # How Do I Download?
 
