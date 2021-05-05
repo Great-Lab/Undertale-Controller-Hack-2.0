@@ -2,7 +2,7 @@
 This is the second version of Undertale Controller. Source code is coming out soon! You have permission to you create your own. But credit Undertale Controller as the original source.
 
 # Questions
-Have any questions? Go to (Pull Request)[https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls]!
+Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls)!
 
 # How Do I Download?
 
