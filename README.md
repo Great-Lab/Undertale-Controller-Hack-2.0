@@ -24,3 +24,7 @@ https://www.youtube.com/watch?v=B4jwJGdjQCY
 
 # Preview
 ![image](https://user-images.githubusercontent.com/64395933/111560998-1abfe980-876a-11eb-9958-201fcac69134.png)
+
+# DISCLAIMER
+``
+This isn't a hack, so don't call it one. This is more like a utility/tool. Or just a simple mod.
