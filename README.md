@@ -3,6 +3,9 @@
 
 ``
 This isn't a hack, so don't call it one. This is more like a utility/tool. Or just a simple mod.
+I am not responsible for any damages you may have.
+
+This isn't a virus, the source code will be coming soon.
 ``
 
 # Undertale Controller 2.0
