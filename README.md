@@ -1,4 +1,3 @@
-
 [![Download](https://img.shields.io/github/downloads/Great-Hacking/Undertale-Controller-2.0/total?color=white&label=download&logo=download&logoColor=white&style=for-the-badge)](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases/latest/download/undertale-controller-2.zip) [![Discord](https://img.shields.io/discord/837913409365475328?color=blue&label=discord&logo=discord&logoColor=blue&style=for-the-badge)](https://discord.gg/9S8xuFsQsU) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL3XW3JfhRCZpeHJOFAV56Q?color=red&label=youtube&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/?sub_confirmation=1)
 
 ```
