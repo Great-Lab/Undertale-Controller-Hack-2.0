@@ -1,5 +1,12 @@
 <h1 align="center">Undertale Controller</h1>
 
+<p align="center">
+<a href="https://discord.gg/9S8xuFsQsU">
+<img src="https://discord.com/api/guilds/839632501546942474/widget.png?style=banner4" alt="Discord Banner 3"/>
+  </a>
+<br/>
+<br/>
+</p>
 <p align = 'center'>
 <a href="https://github.com/Great-Hacking/Undertale-Controller-2.0/releases/latest/download/undertale-controller-2.zip">
   <img src="https://img.shields.io/github/v/release/Great-Hacking/Undertale-Controller-2.0?label=version%20type&logo=discor&style=for-the-badge">
@@ -19,6 +26,8 @@
 **Undertale Controller** is a utility for Undertale.
 This is the second version of Undertale Controller. Source code is coming out soon! You have permission to you create your own. But credit Undertale Controller as the original source.
 
+
+
 Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/KcYsGEwE)!
 # How Do I Download?
 - Go to [Releases](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases) and download the latest release, just click Undertale Controller.exe or anything related. If you don't see that, click Assets and it should appear.
@@ -28,9 +37,3 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 - **Enter one of the commands.**
 - **Restart Undertale to see the changes**
 - **You're all set!**
-
-
-
-https://www.youtube.com/watch?v=B4jwJGdjQCY
-
-![image](https://user-images.githubusercontent.com/64395933/117554932-c11cc280-b028-11eb-9d5c-7bc9867e33f2.png)
