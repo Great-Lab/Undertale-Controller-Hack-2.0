@@ -1,8 +1,8 @@
 <h1 align="center">Undertale Controller</h1>
 
 <p align="center">
-<a href="https://discord.gg/9S8xuFsQsU">
-<img src="https://discord.com/api/guilds/839632501546942474/widget.png?style=banner4" alt="Discord Banner 3"/>
+<a href="https://discord.gg/cGyyfwbs">
+<img src="https://discord.com/api/guilds/845095535329542144/widget.png?style=banner4" alt="Discord Banner 3"/>
   </a>
 <br/>
 <br/>
@@ -13,7 +13,7 @@
  </a>
 <img src="https://img.shields.io/github/downloads/Great-Hacking/Undertale-Controller-2.0/total?color=white&label=download&logo=download&logoColor=white&style=for-the-badge" >
  </a>
-<a href="https://discord.gg/9S8xuFsQsU">
+<a href="https://discord.gg/cGyyfwbs">
 <img src="https://img.shields.io/discord/837913409365475328?color=blue&label=discord&logo=discord&logoColor=blue&style=for-the-badge" >
  </a>
 <a href="https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/?sub_confirmation=1">
@@ -28,7 +28,7 @@ This is the second version of Undertale Controller. Source code is coming out so
 
 
 
-Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/KcYsGEwE)!
+Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/cGyyfwbs)!
 # How Do I Download?
 - Go to [Releases](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases) and download the latest release, just click Undertale Controller.exe or anything related. If you don't see that, click Assets and it should appear.
 - **Unzip the file.**
