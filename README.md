@@ -23,7 +23,7 @@
 
 <hr>
 
-**Undertale Controller** is a utility for Undertale.
+**Undertale Controller** is a free utility for Undertale.
 This is the second version of Undertale Controller. Source code is coming out soon! You have permission to you create your own. But credit Undertale Controller as the original source.
 
 
