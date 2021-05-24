@@ -32,7 +32,7 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 # How Do I Download?
 - Go to [Releases](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases) and download the latest release, just click Undertale Controller.exe or anything related. If you don't see that, click Assets and it should appear.
 - **Unzip the file.**
-- **Open it and start "controller.exe"**
+- **Open it and start the exe file**
 - **Once you did, start Undertale.**
 - **Enter one of the commands.**
 - **Restart Undertale to see the changes**
