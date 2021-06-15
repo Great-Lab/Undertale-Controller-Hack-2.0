@@ -11,6 +11,8 @@
 <a href="https://github.com/Great-Hacking/Undertale-Controller-2.0/releases/latest/download/undertale-controller-2.zip">
   <img src="https://img.shields.io/github/v/release/Great-Hacking/Undertale-Controller-2.0?label=version%20type&logo=discor&style=for-the-badge">
  </a>
+
+<a href="https://github.com/Great-Hacking/Undertale-Controller-2.0/releases/latest/download/undertale-controller-2.zip">
 <img src="https://img.shields.io/github/downloads/Great-Hacking/Undertale-Controller-2.0/total?color=white&label=download&logo=download&logoColor=white&style=for-the-badge" >
  </a>
 <a href="https://discord.gg/cGyyfwbs">
