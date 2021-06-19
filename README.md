@@ -1,5 +1,4 @@
 <h1 align="center">Undertale Controller</h1>
-
 <p align="center">
 <a href="https://discord.gg/cGyyfwbs">
 <img src="https://discord.com/api/guilds/845095535329542144/widget.png?style=banner4" alt="Discord Banner 3"/>
@@ -39,3 +38,6 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 - **Enter one of the commands.**
 - **Restart Undertale to see the changes**
 - **You're all set!**
+
+<br>
+<b>There will be an Deltarune Controller Beta soon. So stay tuned!</b>
