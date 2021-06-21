@@ -39,10 +39,4 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 This isn't a hack, this is just a tool. And I am not responsible for damaging your game. Thank you for reading.
 `
 
-<br>
-
-<br>
-
-<br>
-
 <b>There will be an Deltarune Controller Beta soon. So stay tuned!</b>
