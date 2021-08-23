@@ -1,7 +1,7 @@
 <h1 align="center">Undertale Controller</h1>
 <p align="center">
-<a href="https://discord.gg/cGyyfwbs">
-<img src="https://discord.com/api/guilds/845095535329542144/widget.png?style=banner4" alt="Discord Banner 3"/>
+<a href="https://discord.gg/sSp8DfhCWz">
+<img src="https://discord.com/api/guilds/867207092465303553/widget.png?style=banner4" alt="Discord Banner 3"/>
   </a>
 <br/>
 <br/>
@@ -36,7 +36,10 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 
 # DISCLAIMER
 `
-This isn't a hack, this is just a tool. And I am not responsible for damaging your game. Thank you for reading.
+This isn't a hack, this is just a tool. And I am not responsible for damaging your game. Thank you for reading. I am also not responsible for your actions using this programs.
 `
 
 <b>There will be an Deltarune Controller Beta soon. So stay tuned!</b>
+
+<i>Created by Lapide<br>
+@Copyright 2021, All rights reserved.</i>
