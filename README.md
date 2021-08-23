@@ -20,8 +20,7 @@
 <hr>
 
 **Undertale Controller** is a free utility for Undertale.
-This is the second version of Undertale Controller. Source code is coming out soon! You have permission to you create your own. But credit Undertale Controller as the original source.
-
+This is the second version of Undertale Controller. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 
 
 Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/cGyyfwbs)!
