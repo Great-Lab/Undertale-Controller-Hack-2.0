@@ -35,9 +35,10 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 
 # DISCLAIMER
 `
-This isn't a hack, this is just a tool. And I am not responsible for damaging your game. Thank you for reading. I am also not responsible for your actions using this programs.
+This isn't a hack, this is just a tool. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 `
 
+<br>
 <b>There will be an Deltarune Controller Beta soon. So stay tuned!</b>
 
 <i>Created by Lapide<br>
