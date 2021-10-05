@@ -22,7 +22,7 @@
 This is the second version of Undertale Controller. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 
 
-Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord](https://discord.gg/cGyyfwbs)!
+Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undertale-Controller-2.0/pulls) or the [Discord - COMING SOON]()!
 # How Do I Download?
 - **Go to [Releases](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases) and download the latest release, just click Undertale Controller.exe or anything related. If you don't see that, click Assets and it should appear.**
 - **Unzip the file.**
@@ -39,6 +39,6 @@ This is a hack and a tool. I am not responsible for any damages or actions that 
 
 <br>
 <b>There will be an Deltarune Controller Beta soon. So stay tuned!</b>
-
+<br>
 <i>Created by Lapide<br>
 @Copyright 2021, All rights reserved.</i>
