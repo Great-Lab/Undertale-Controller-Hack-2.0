@@ -1,4 +1,5 @@
 <h1 align="center">Undertale Controller</h1>
+<h2 align="center">Most best advanced Undertale Hack!</h3>
 <p align="center">
 <a href="https://discord.gg/sSp8DfhCWz">
 <img src="https://discord.com/api/guilds/867207092465303553/widget.png?style=banner4" alt="Discord Banner 3"/>
@@ -19,7 +20,7 @@
 
 <hr>
 
-**Undertale Controller** is a free utility for Undertale.
+**Undertale Controller** is a free hacking utility for Undertale.
 This is the second version of Undertale Controller. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 
 
@@ -35,7 +36,7 @@ Have any questions? Go to [Pull Request](https://github.com/Great-Hacking/Undert
 
 # DISCLAIMER
 `
-This isn't a hack, this is just a tool. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
+This is a hack and a tool. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 `
 
 <br>
