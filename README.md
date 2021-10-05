@@ -1,8 +1,8 @@
 <h1 align="center">Undertale Controller</h1>
 <h2 align="center">Most best advanced Undertale Hack!</h3>
 <p align="center">
-<a href="https://discord.gg/sSp8DfhCWz">
-<img src="https://discord.com/api/guilds/867207092465303553/widget.png?style=banner4" alt="Discord Banner 3"/>
+<a href="">
+  <b>COMING SOON</b>
   </a>
 <br/>
 <br/>
@@ -12,8 +12,6 @@
 
 <a href="https://github.com/Great-Hacking/Undertale-Controller-2.0/releases/latest/download/undertale-controller-2.zip">
 <img src="https://img.shields.io/github/downloads/Great-Hacking/Undertale-Controller-2.0/total?color=white&label=download&logo=download&logoColor=white&style=for-the-badge"></a>
-<a href="https://discord.gg/brkTrxFQ">
-<img src="https://img.shields.io/discord/867207092465303553?color=blue&label=discord&logo=discord&logoColor=blue&style=for-the-badge" ></a>
 <a href="https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/?sub_confirmation=1">
 <img src="https://img.shields.io/youtube/channel/subscribers/UCL3XW3JfhRCZpeHJOFAV56Q?color=red&label=youtube&logo=youtube&logoColor=red&style=for-the-badge" ></a>
 </p>
