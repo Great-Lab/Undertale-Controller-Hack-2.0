@@ -2,7 +2,7 @@
 <h2 align="center">Most best advanced Undertale Hack!</h3>
 <p align="center">
 <a href="">
-  <b>COMING SOON</b>
+  <b>Discord - COMING SOON</b>
   </a>
 <br/>
 <br/>
