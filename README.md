@@ -22,7 +22,7 @@
 This is the second version of Undertale Controller. I am not responsible for any damages or actions that might have been caused. You've been warned, thank you.
 
 
-Have any questions? Go to [Issues](https://github.com/Great-Lab/Undertale-Controller-Hack-2.0) or the [Discord - COMING SOON]()!
+Have any questions? Go to [Issues](https://github.com/Great-Lab/Undertale-Controller-Hack-2.0/issues) or the [Discord - COMING SOON]()!
 # How Do I Download?
 - **Go to [Releases](https://github.com/Great-Hacking/Undertale-Controller-2.0/releases) and download the latest release, just click Undertale Controller.exe or anything related. If you don't see that, click Assets and it should appear.**
 - **Unzip the file.**
