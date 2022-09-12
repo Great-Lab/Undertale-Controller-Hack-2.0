@@ -1,3 +1,4 @@
+<h3>I'm making a 3rd version. You can visit the <a href="https://github.com/XtraUtils/Undertale-Controller-3">Github Repo</h3>
 <h1 align="center">Undertale Controller</h1>
 <h2 align="center">Most best advanced Undertale Hack!</h3>
 <p align="center">
